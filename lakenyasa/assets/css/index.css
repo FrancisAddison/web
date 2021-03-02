@@ -1,0 +1,95 @@
+.container {
+    border-radius: px;
+}
+
+li {
+    display: block;
+    color: mediumvioletred;
+}
+
+header {
+    text-align: center;
+    text-decoration-style: wavy;
+    text-size-adjust: 40px;
+    border-width: 30px;
+    border-style: dotted;
+    background-color: brown;
+    color: lavender;
+    padding: 100px;
+    margin: 30px;
+}
+
+body {
+
+    background-color: wheat;
+    background-position: w-100cm;
+}
+
+h1 {
+    color: blue;
+    text-align: left;
+    text-decoration-style: wavy;
+    text-indent: 70px;
+}
+
+h2 {
+    background-color: darkorange;
+    color: crimson;
+    text-align: center;
+    text-decoration: overline;
+}
+
+header {
+    font-size: 90px;
+}
+
+marquee {
+    color: darkmagenta;
+    background-color: chartreuse;
+    text-decoration-line: display block;
+}
+
+h3 {
+    color: chocolate;
+    text-align: center;
+    text-decoration: dotted;
+}
+
+h4 {
+    background-color: blanchedalmond;
+    color: chartreuse;
+    border-radius: h-50px;
+    text-align: center;
+    text-decoration: dashed;
+    font-size: large;
+}
+
+h5 {
+    color: blue;
+    font-size: larger
+}
+
+footer {
+    border: 10px;
+    background-origin: border-box;
+    background-color: darksalmon;
+    color: deeppink;
+    padding: 50px;
+    border-style: dashed;
+}
+
+a {
+    color: red;
+    background-color: sandybrown;
+    padding: 10px;
+
+}
+
+b {
+    color: springgreen;
+    text-align: center;
+}
+
+br {
+    color: tomato;
+}
